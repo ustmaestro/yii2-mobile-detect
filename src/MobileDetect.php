@@ -1,5 +1,5 @@
 <?php
-namespace app\components;
+namespace ustmaestro\yii2-mobile-detect;
  
  
 use Yii;

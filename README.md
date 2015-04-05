@@ -9,8 +9,8 @@ Add your component inside the config/web.php file eg:
     ...
 
     'mobileDetect' => [
-        'class' => 'app\components\MobileDetect'
-   ],
+        'class' => 'ustmaestro\yii2-mobile-detect\MobileDetect'
+    ],
     
     ...
 ];
