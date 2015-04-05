@@ -10,9 +10,10 @@
             "email": "ustmaestro@gmail.com"
         }
     ],
+	"minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ustmaestro\\yii2-mobile-detect\\": "src"
+            "ustmaestro\\yii2-mobile-detect\\": "src/"
         }
     },
     "require": {
