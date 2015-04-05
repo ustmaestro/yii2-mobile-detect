@@ -4,13 +4,13 @@
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "yii2-mobile-detect"],
     "license": "BSD-4-Clause",
+	"version": "1.0.0",
     "authors": [
         {
             "name": "ustmaestro",
             "email": "ustmaestro@gmail.com"
         }
     ],
-	"minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "ustmaestro\\yii2-mobile-detect\\": "src/"
