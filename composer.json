@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ustmaestro\\yii2-mobile-detect\\": "src/"
+            "ustmaestro\\mobiledetect\\": "src/"
         }
     },
     "require": {
