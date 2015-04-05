@@ -15,7 +15,7 @@ class MobileDetect extends Component
 	
     public function init()
     {
-        $this->_mobileDetect = new Mobile_Detect();
+        $this->_mobileDetect = new \Mobile_Detect();
     }
 	
     public function __call($name, $parameters)
