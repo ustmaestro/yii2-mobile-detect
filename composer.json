@@ -2,7 +2,7 @@
     "name": "ustmaestro/yii2-mobile-detect",
     "description": "Yii2 mobile dectect component",
     "type": "yii2-extension",
-    "keywords": ["yii2", "extension", " yii2-mobile-detect"],
+    "keywords": ["yii2", "extension", "yii2-mobile-detect"],
     "license": "BSD-4-Clause",
     "authors": [
         {
@@ -17,6 +17,7 @@
         }
     },
     "require": {
+		"php": ">=5.4",
         "yiisoft/yii2": "*"
     }
 }
